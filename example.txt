@@ -1,2 +1,6 @@
 Hi This Is Akesh 
+<<<<<<< HEAD
 this is a important line
+=======
+this is my line bro
+>>>>>>> ff74d6caf6f66bab305746bdc56534d98cdb82c6
