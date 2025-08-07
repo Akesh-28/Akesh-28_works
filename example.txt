@@ -1,3 +1,7 @@
 Hi This Is Akesh
+<<<<<<< HEAD
 this is a important line
+=======
+this is an important line
+>>>>>>> c234aec6486de4ac1ab52eca28f2dbae7b3e686e
 
