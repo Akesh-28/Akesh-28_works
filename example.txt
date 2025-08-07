@@ -2,8 +2,4 @@ Hi This Is Akesh
 this is a important line
 i like stash
 what is stash 
-<<<<<<< Updated upstream
-stashing 
-=======
-stasher
->>>>>>> Stashed changes
+stashed
